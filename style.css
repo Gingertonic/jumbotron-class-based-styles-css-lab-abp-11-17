@@ -50,3 +50,12 @@ h3#header {
   color: #868e96;
 }
 
+div.jumbotron {
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
+
+ a `background-color` of `#e9ecef`, a `padding` of `10px` and [center align the text](https://www.w3schools.com/cssref/pr_text_text-align.asp). */
+
