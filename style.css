@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -56,6 +56,4 @@ div.jumbotron {
   padding: 10px;
   text-align: center;
 }
-
- a `background-color` of `#e9ecef`, a `padding` of `10px` and [center align the text](https://www.w3schools.com/cssref/pr_text_text-align.asp). */
 
